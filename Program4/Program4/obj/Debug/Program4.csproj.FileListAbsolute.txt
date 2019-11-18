@@ -1,0 +1,14 @@
+C:\Users\Julio\source\repos\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\Julio\source\repos\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\Julio\source\repos\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\Julio\source\repos\Program4\Program4\obj\Debug\Program4.csprojResolveAssemblyReference.cache
+C:\Users\Julio\source\repos\Program4\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\Program4\Program4\obj\Debug\Program4.exe
+C:\Users\Julio\source\repos\Program4\Program4\obj\Debug\Program4.pdb
+C:\Users\Julio\Desktop\CIS 199\Programs\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\Julio\Desktop\CIS 199\Programs\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\Julio\Desktop\CIS 199\Programs\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\Julio\Desktop\CIS 199\Programs\Program4\Program4\obj\Debug\Program4.csprojResolveAssemblyReference.cache
+C:\Users\Julio\Desktop\CIS 199\Programs\Program4\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Desktop\CIS 199\Programs\Program4\Program4\obj\Debug\Program4.exe
+C:\Users\Julio\Desktop\CIS 199\Programs\Program4\Program4\obj\Debug\Program4.pdb
